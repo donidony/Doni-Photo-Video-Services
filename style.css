@@ -15,14 +15,14 @@ h1 {
   color: #000;
 }
 
-hr {
+/*hr {
   margin: 20px auto;
   color:  #000;
   border: 3px solid #000;
   max-width: 400px;
   opacity: 1;  
 }
-
+*/
 .buffer {
   height: 1rem;
 }
@@ -41,4 +41,8 @@ hr {
 
 .btn-xl {
   padding: 1rem 2rem;
+}
+
+.animate__animated.animate__bounce {
+  --animate-duration: 2s;
 }
