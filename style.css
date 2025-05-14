@@ -46,3 +46,8 @@ h1 {
 .animate__animated.animate__bounce {
   --animate-duration: 2s;
 }
+
+.spotifiy {
+  margin: auto;
+  max-width: 400px;
+}
